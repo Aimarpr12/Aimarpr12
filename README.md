@@ -2,6 +2,8 @@
 <h3 font-size="20" align="center">A passionate full stack developer and a student from Spain.</h3>
 
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 - 🌱 I’m currently learning... <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
   - Taildwind CSS
@@ -16,7 +18,9 @@
 
 - 💬 Ask me about enything, I am happy to help, only if the ball is in my court!!!
 
-  ## My Skills Include
+- 📫 Reach out to me at: <a href="www.linkedin.com/in/aimarpelea">Linkedin</a>
+
+## My Skills Include 🛠
 
 <h4> Languages </h4>
 <span> 
@@ -56,3 +60,13 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 </span>
+
+## Github Activity ✔:
+
+<a href="https://github.com/Aimarpr12">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimarpr12&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Aimarpr12">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aimarpr12&show_icons=true&theme=tokyonight&line_height=27" alt="Aimarpr12's github stats"/>
+</a>
