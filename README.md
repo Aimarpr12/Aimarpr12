@@ -56,7 +56,7 @@
 
 </span>
 
-## Github Activity ✔:
+## Github Activity ✔
 
 <a href="https://github.com/Aimarpr12">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimarpr12&theme=tokyonight" />
