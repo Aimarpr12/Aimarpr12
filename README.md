@@ -8,11 +8,6 @@
 
   - Taildwind CSS
   - PHP
-  - React Js
-    
-- 👯 I’m looking to collaborate on **.Net**
-
-- 🤝 I’m looking for help with **Backend Design**
 
 - 👨‍💻 All of my projects are available [@Aimarpr12](github.com/Aimarpr12)
 
