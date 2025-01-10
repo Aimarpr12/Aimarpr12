@@ -9,11 +9,11 @@
   - Taildwind CSS
   - PHP
 
-- 👨‍💻 All of my projects are available [@Aimarpr12](github.com/Aimarpr12)
+- 👨‍💻 All of my projects are available [@Aimarpr12](https://www.github.com/Aimarpr12)
 
 - 💬 Ask me about enything, I am happy to help, only if the ball is in my court!!!
 
-- 📫 Reach out to me at: <a href="www.linkedin.com/in/aimarpelea">Linkedin</a>
+- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/aimarpelea/">Linkedin</a>
 
 ## My Skills Include 🛠
 
