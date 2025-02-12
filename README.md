@@ -3,9 +3,9 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-- 🌱 I’m currently learning... <img align="right" style="width:16rem; height:auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-
+<img align="right" style="width:16rem; height:auto" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+  
+- 🌱 I’m currently learning... 
   - Taildwind CSS
   - PHP
 
